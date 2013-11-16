@@ -1,0 +1,31 @@
+PENGERTIAN 
+
+Sistem Manajemen Database adalah pengaturan 
+bagaimana dengan Database Manajemen Sistem (RDBMS) 
+
+DEFINISI DATABASE 
+Database Manajemen Sistem  merupakan perangkat lunak yang dirancang untuk dapat melakukan utilisasi dan mengelola koleksi data dalam jumah yang besar. Database Manajemen Sistem juga dirancang untuk dapat melakukan manipulasi data secara lebih mudah.
+
+
+DATA MANIPULASI 
+
+DATA SECURITY DAN INTEGRITY 
+
+DATA RECOVERY DAN CONCURENCY 
+
+DATA DICTIONARY 
+
+PERFOMANCE DATA 
+
+MEMAHAMI KONSEP BASIS DATA (DATA BASE CONCEPT)
+
+PERLUNYA MANAJEMEN DATABASE TERDISTRIBUSI 
+
+
+NORMALISASI DATABASE 
+Normalisasi merupakan teknik analisis data yang mengorganisasikan atribut-atribut data dengan cara mengelompokkan sehingga terbentuk entitas yang non-redundant, stabil, dan fleksible Normalisasi dilakukan sebagai uji coba pada suatu relasi secara berkelanjutan untuk menentukan apakah relasi itu sudah baik, yaitu dapat dilakukan dengan proses insert,update,delete, dan modifikasi pada satu atau beberapa atribut tanpa mempengaruhi integritas data dalam relasi tersebut. 
+
+BENTUK DATA UNNORMALIZED
+
+BENTUK DATA NORMAL
+
